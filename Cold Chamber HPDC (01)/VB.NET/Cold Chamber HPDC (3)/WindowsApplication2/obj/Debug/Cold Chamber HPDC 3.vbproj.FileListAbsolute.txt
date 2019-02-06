@@ -1,0 +1,19 @@
+D:\Study\PHD\Thesis\Software\Cold Chamber HPDC (3)\WindowsApplication2\bin\Debug\ColdChamber.exe.config
+D:\Study\PHD\Thesis\Software\Cold Chamber HPDC (3)\WindowsApplication2\obj\Debug\ColdChamber.exe
+D:\Study\PHD\Thesis\Software\Cold Chamber HPDC (3)\WindowsApplication2\obj\Debug\ColdChamber.xml
+D:\Study\PHD\Thesis\Software\Cold Chamber HPDC (3)\WindowsApplication2\obj\Debug\ColdChamber.pdb
+D:\Study\PHD\Thesis\Software\Cold Chamber HPDC (3)\WindowsApplication2\bin\Debug\ColdChamber.exe.manifest
+D:\Study\PHD\Thesis\Software\Cold Chamber HPDC (3)\WindowsApplication2\bin\Debug\ColdChamber.application
+D:\Study\PHD\Thesis\Software\Cold Chamber HPDC (3)\WindowsApplication2\bin\Debug\ColdChamber.exe
+D:\Study\PHD\Thesis\Software\Cold Chamber HPDC (3)\WindowsApplication2\bin\Debug\ColdChamber.pdb
+D:\Study\PHD\Thesis\Software\Cold Chamber HPDC (3)\WindowsApplication2\bin\Debug\ColdChamber.xml
+D:\Study\PHD\Thesis\Software\Cold Chamber HPDC (3)\WindowsApplication2\obj\Debug\Cold Chamber HPDC 3.vbprojResolveAssemblyReference.cache
+D:\Study\PHD\Thesis\Software\Cold Chamber HPDC (3)\WindowsApplication2\obj\Debug\ColdChamber.Doutput.resources
+D:\Study\PHD\Thesis\Software\Cold Chamber HPDC (3)\WindowsApplication2\obj\Debug\ColdChamber.Main.resources
+D:\Study\PHD\Thesis\Software\Cold Chamber HPDC (3)\WindowsApplication2\obj\Debug\ColdChamber.About.resources
+D:\Study\PHD\Thesis\Software\Cold Chamber HPDC (3)\WindowsApplication2\obj\Debug\ColdChamber.NCavities.resources
+D:\Study\PHD\Thesis\Software\Cold Chamber HPDC (3)\WindowsApplication2\obj\Debug\ColdChamber.Resources.resources
+D:\Study\PHD\Thesis\Software\Cold Chamber HPDC (3)\WindowsApplication2\obj\Debug\Cold Chamber HPDC 3.vbproj.GenerateResource.Cache
+D:\Study\PHD\Thesis\Software\Cold Chamber HPDC (3)\WindowsApplication2\obj\Debug\ColdChamber.TrustInfo.xml
+D:\Study\PHD\Thesis\Software\Cold Chamber HPDC (3)\WindowsApplication2\obj\Debug\ColdChamber.exe.manifest
+D:\Study\PHD\Thesis\Software\Cold Chamber HPDC (3)\WindowsApplication2\obj\Debug\ColdChamber.application

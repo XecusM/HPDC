@@ -1,0 +1,543 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ColdChamber
+</name>
+</assembly>
+<members>
+<member name="T:ColdChamber.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:ColdChamber.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:ColdChamber.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="P:ColdChamber.My.Resources.Resources.Arc">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ColdChamber.My.Resources.Resources.Cylinder">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ColdChamber.My.Resources.Resources.Gate1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ColdChamber.My.Resources.Resources.Gate2">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ColdChamber.My.Resources.Resources.Gate3">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ColdChamber.My.Resources.Resources.Hexagonal">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ColdChamber.My.Resources.Resources.OverFlow">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ColdChamber.My.Resources.Resources.OverFlow1">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ColdChamber.My.Resources.Resources.OverFlowC">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ColdChamber.My.Resources.Resources.Parallelogram">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ColdChamber.My.Resources.Resources.Position">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ColdChamber.My.Resources.Resources.Runner">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="P:ColdChamber.My.Resources.Resources.Runners">
+<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member>
+<member name="F:ColdChamber.data.Ar">
+ <summary>
+ Runner Cross Section Area
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.Wr">
+ <summary>
+ Runner Average width
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.Hr">
+ <summary>
+ Runner Hight
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.Df">
+ <summary>
+ Flow Angle
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.Agate">
+ <summary>
+ Total Gate Cross Section Area
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.Tg">
+ <summary>
+ Gate Thickness Variation
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.Hg">
+ <summary>
+ Gate Thickness
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.Wgate">
+ <summary>
+ Gate Width
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.Bg">
+ <summary>
+ Gate Land
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.Lg">
+ <summary>
+ Total Gate Length
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.Wmax">
+ <summary>
+ Max. Gate Width
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.Vgate">
+ <summary>
+ Gate Velocity
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.Z">
+ <summary>
+ Solids units conversion factor, degree to %
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.K">
+ <summary>
+ Empirically derived constant related to the thermal conductivity of the die steel
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.S">
+ <summary>
+ Percent Solids at the end of fill
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.W">
+ <summary>
+ Width dimension
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.L">
+ <summary>
+ Length dimension
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.H">
+ <summary>
+ Hight dimension
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.T">
+ <summary>
+ Thickness dimension
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.R">
+ <summary>
+ Redius dimension
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.A">
+ <summary>
+ Angle dimension
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.D">
+ <summary>
+ Diameter dimension
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.P">
+ <summary>
+ Parting line Hight dimension
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.Ti">
+ <summary>
+ Metal temperature at the gate
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.Tf">
+ <summary>
+ Metal temperature
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.Td">
+ <summary>
+ Die surface temperature just before the shot
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.tfill">
+ <summary>
+ Max. fill time
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.vol">
+ <summary>
+ Part volume
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.Shape">
+ <summary>
+ Shape type
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.MC">
+ <summary>
+ Machine Type
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.lforce">
+ <summary>
+ Machine locking force
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.iforce">
+ <summary>
+ Machine injection force
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.pDia">
+ <summary>
+ Machine Plunger diameter
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.Pdsel">
+ <summary>
+ Selected Machine Plunger Diameter
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.iSpeed">
+ <summary>
+ Machine Plunger speed
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.iStroke">
+ <summary>
+ Machine plunger stroke
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.AreaProj">
+ <summary>
+ Projected area in the die
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.MCvol">
+ <summary>
+ Machine material volumes
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.Nvol">
+ <summary>
+ Number of cavities due to volume
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.Ncf">
+ <summary>
+ Number of cavities due to locking force
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.Nfl">
+ <summary>
+ Number of cavities due to flow
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.Nmax">
+ <summary>
+ Max. Number of cavities
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.Nsel">
+ <summary>
+ Number of Cavities Selected
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.Flow">
+ <summary>
+ Machine flows
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.Cd">
+ <summary>
+ Coefficient of discharge
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.g">
+ <summary>
+ Gravitational constant
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.pd">
+ <summary>
+ Metal density
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.Pm">
+ <summary>
+ Metal Pressure
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.Ca">
+ <summary>
+ Cast Area
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.OA">
+ <summary>
+ Overflow Parameter
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.OB">
+ <summary>
+ Overflow Parameter
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.OC">
+ <summary>
+ Overflow Parameter
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.OV">
+ <summary>
+ Overflow Parameter
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.volfl">
+ <summary>
+ Overflow volume
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.Wv">
+ <summary>
+ Overflow Width
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.Lv">
+ <summary>
+ Overflow Length
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.Hv">
+ <summary>
+ Overflow Hight
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.Gv">
+ <summary>
+ Overflow Gate Width
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.Av">
+ <summary>
+ Overflow Gate Area
+ </summary>
+</member>
+<member name="F:ColdChamber.data.Iv">
+ <summary>
+ Help Parameter
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.Al">
+ <summary>
+ Gate Sections Parameter
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.Ll">
+ <summary>
+ Gate Sections Parameter
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.Wl">
+ <summary>
+ Gate Sections Parameter
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.Hl">
+ <summary>
+ Gate Sections Parameter
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.N">
+ <summary>
+ Helpful parameter
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.i">
+ <summary>
+ Helpful parameter
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.j">
+ <summary>
+ Helpful parameter
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.m">
+ <summary>
+ Helpful parameter
+ </summary>
+ <remarks></remarks>
+</member>
+<member name="F:ColdChamber.data.Ig">
+ <summary>
+ Helpful parameter
+ </summary>
+</member>
+<member name="F:ColdChamber.data.Jg">
+ <summary>
+ Helpful parameter
+ </summary>
+</member>
+<member name="F:ColdChamber.data.f1">
+ <summary>
+ Helpful parameter
+ </summary>
+</member>
+<member name="F:ColdChamber.data.f2">
+ <summary>
+ Helpful parameter
+ </summary>
+</member>
+<member name="F:ColdChamber.data.GSS">
+ <summary>
+ Gate Shift Scale
+ </summary>
+</member>
+<member name="F:ColdChamber.data.OSS">
+ <summary>
+ Overflow Shift Scale
+ </summary>
+</member>
+<member name="F:ColdChamber.data.OPS">
+ <summary>
+ Optimization Array
+ </summary>
+</member>
+<member name="F:ColdChamber.data.fn">
+ <summary>
+ Objective Function
+ </summary>
+</member>
+<member name="F:ColdChamber.data.Mat">
+ <summary>
+ Part Material
+ </summary>
+</member>
+</members>
+</doc>
